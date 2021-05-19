@@ -3,5 +3,5 @@ How to create registration and login functionalities in ASP.NET Core web applica
 
 # Images
 ![Alt_Text](https://github.com/Kumavat-Vijay/LoginAuth/blob/main/images/Register%20-%20Login.png)
-(https://github.com/Kumavat-Vijay/LoginAuth/blob/main/images/Log%20in%20-%20LoginAu.png)
-(https://github.com/Kumavat-Vijay/LoginAuth/blob/main/images/DB.png)
+![Alt_Text](https://github.com/Kumavat-Vijay/LoginAuth/blob/main/images/Log%20in%20-%20LoginAu.png)
+![Alt_Text](https://github.com/Kumavat-Vijay/LoginAuth/blob/main/images/DB.png)
